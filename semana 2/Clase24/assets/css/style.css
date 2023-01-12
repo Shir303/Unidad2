@@ -1,0 +1,23 @@
+.titulo{
+    font-family: cursive;
+    color: blueviolet;
+    text-align: center;
+}
+form{
+    background-color: rgb(170, 249, 223);
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+.formulario{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornflowerblue;
+    font-size: 1.5rem;
+}
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.hUyuFCRYEM7fdK6QsGGOVQHaDt?pid=ImgDet&rs=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
