@@ -1,0 +1,11 @@
+.caja{
+    border: 5px dashed blueviolet;
+    padding: 20px;
+    text-align: center;
+    margin: 30px;
+    display: inline-block;
+}
+
+img{
+    border: 5px outset rgb(45, 166, 57);
+}
