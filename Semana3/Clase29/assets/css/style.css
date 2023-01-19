@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/server.jpg);
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.parrafo{
+    color: white;
+    text-align: center;
+}
